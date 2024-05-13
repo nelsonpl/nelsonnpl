@@ -11,9 +11,10 @@ Hey! I'm a Software Engineer who loves turning coffee into code! 😄 I have a p
 
 ## Check out some of my work! 📚
 These projects are my babies, take a look:
-- [Node.js API](https://github.com/nelsonpl/nodejs-api) - A simple API to show my skills with Node.js.
-- [Vue.js Msg Geo](https://github.com/nelsonpl/vue-msg-geo) - A web app to post messages with geo-location.
-- [.NET Msg Geo API](https://github.com/nelsonpl/csharp-msg-geo) - An API in .NET for the app above.
+- [AWS Photo Gallery](https://github.com/nelsonpl/aws-photo-gallery) - Typescript / Node.js / AWS Lambda / AWS S3 / AWS DynamoDB
+- [Next Photo Gallery](https://github.com/nelsonpl/next-photo-gallery) - Typescript / Reactjs / Next / AWS Cloud Front
+- [Google Functions](https://github.com/nelsonpl/google-functions) - Javascript / Google Functions
+- [Nest.js](https://github.com/nelsonpl/google-functions) - Typescript / Node.js / Nest.js / MongoDB
 
 ## Wanna chat? ☕
 - **LinkedIn**: [find me here](https://www.linkedin.com/in/nelsonpl/)
